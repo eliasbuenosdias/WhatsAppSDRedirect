@@ -1,12 +1,39 @@
 *.iml
-.gradle
-/local.properties
-/.idea/
-.DS_Store
-/build
-/captures
-*.apk
-*.ap_
+# Gradle files
+.gradle/
+build/
+**/build/
 
-# Project exclude paths
-/app/build/
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+captures/
+
+# Generated files
+*.log
+*.cache
+
+# APKs: permitimos solo los del directorio /releases
+*.apk
+!/releases/*.apk
+
+# Keystores
+*.jks
+*.keystore
+*.keystore.android
+*.pem
+*.p12
+*.pfx
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+.DS_Store
