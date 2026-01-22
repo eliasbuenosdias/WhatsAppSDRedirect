@@ -1,4 +1,5 @@
-![WhatsApp SD Redirect](https://eliasbuenosdias.github.io/Elias-Porfolio/recursos/whatsAppSDRedirect.png)
+<img src="https://eliasbuenosdias.github.io/Elias-Porfolio/recursos/whatsAppSDRedirect.png" alt="WhatsApp SD Redirect" width="100" height="auto">
+
 
 ## 📱 Descripción
 Módulo LSPosed que redirige automáticamente todos los archivos multimedia de WhatsApp (imágenes, videos, audios, documentos) a la microSD sin que la app pierda la capacidad de visualizarlos.
