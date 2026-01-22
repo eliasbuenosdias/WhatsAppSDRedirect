@@ -1,4 +1,4 @@
-![Logo GeoGas Dark](https://eliasbuenosdias.github.io/Elias-Porfolio/recursos/logoGeoGas-dark.png)
+![WhatsApp SD Redirect](https://eliasbuenosdias.github.io/Elias-Porfolio/recursos/whatsAppSDRedirect.png)
 
 ## 📱 Descripción
 Módulo LSPosed que redirige automáticamente todos los archivos multimedia de WhatsApp (imágenes, videos, audios, documentos) a la microSD sin que la app pierda la capacidad de visualizarlos.
